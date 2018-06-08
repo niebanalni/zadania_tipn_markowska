@@ -1,0 +1,64 @@
+---
+title: "Kubuś Puchatek, charakterystyka postaci"
+author: "Dorota Markowska"
+date: "8 czerwca 2018"
+output: 
+  html_document:
+    theme: united
+    highlight: zenburn
+    df_print: paged
+---
+
+## Seria książek o Kubusiu puchatku
+
+Kubuś puchatek fikcyjna postać z literatury dziecięcej stworzona przez brytyjskiego pisarza A.A. Milne’a.
+W pierwszej książce o Kubusiu Puchatku wydanej 14 października 1926 roku pojawiły się takie postacie jak: **Prosiaczek, Królik, Kłapouchy, Sowa Przemądrzała, Mama Kangurzyca** i **Maleństwo** oraz **Krzyś** (którego pierwowzorem był syn autora), w drugiej części pt. Chatka Puchatka autor dodatkowo wprowadził postać **Tygrysa.**
+
+#### **Kubuś puchatek** - główny bohater książki, grubiutki pluszowy miś „o bardzo małym rozumku”. Naiwny i niezbyt mądry, ale bardzo sympatyczny, życzliwy i uczynny. Przyjaźni się z Prosiaczkiem i bardzo lubi miód. Jego zwyczaj to codzienne „małe co nieco” - drugie śniadanie składające się z miodu. Lubi spacery po lesie. Jego największym przyjacielem jest Krzyś, do którego Puchatek ma bezgraniczne zaufanie. Mieszka w chatce pod drzewem. W potrzebie można na niego liczyć - ratuje Prosiaczka z zalanego domu, znajduje zagubiony ogon Kłapouchego.
+
+#### Inne postacie:
+
+1. **Prosiaczek** - malutki różowy prosiaczek z dużymi uszami, ubrany w pasiasty kubraczek. Jest bardzo tchórzliwy i boi się wszystkiego, czego nie zna. Panicznie lęka się słoni, choć nigdy żadnego nie widział, bo myśli, że słonie to dzikie i krwiożercze zwierzęta. Lubi żołędzie, mieszka w pniu wielkiego dębu. Jest dobrym przyjacielem i wszyscy go lubią.
+2. **Królik** - szary królik, mieszka w norze wykopanej w ziemi, prawdopodobnie jest już dorosły. Zdecydowany i konsekwentny w działaniu, bardzo lubi rządzić i podejmować decyzje. Bywa niegrzeczny, jest obrażalski i często się wymądrza, ale w potrzebie można na niego liczyć. Często wywołuje wokół siebie niepotrzebne zamieszanie, bo lubi być w centrum uwagi. Ma zdolności organizacyjne.
+3. **Sowa Przemądrzała** - bardzo mądra sowa, bywa zarozumiała. Umie czytać i bardzo lubi używać trudnych, uczonych słów. Potrafi także pisać, ale - jak wskazuje historia napisu na baryłce - nie zawsze jej to wychodzi. Mieszka w domku na drzewie kasztanowca.
+4. **Mama Kangurzyca** - jedna z dorosłych osób pośród mieszkańców lasu. Bardzo opiekuńcza, troskliwa i rozsądna, uważa, że wszystkie dzieci powinny pić tran. Początkowo mieszkańcy Lasu chcą, żeby odeszła, ale potem się z nią zaprzyjaźniają. Jest bardzo miła i życzliwa, ma też poczucie humoru (nie obraża się za „porwanie” Maleństwa, tylko bierze udział w zabawie). Mieszka w domku za lasem.
+4. **Maleństwo** - dziecko Mamy Kangurzycy, najmłodsze spośród mieszkańców lasu. Lubi bawić się w piasku i pływać, codziennie rano musi pić tran, którego nie znosi. Jest odważne i wesołe. Mama Kangurzyca ani na chwilę nie spuszcza z niego oka.
+5. **Kłapouchy** - szary osiołek, mieszka za lasem. Żywi się ostem. Jest całkiem mądry. Zawsze smutny, nic go nie cieszy, jest przekonany, że nikt go nie lubi i nie liczy się z jego potrzebami. Jest dobrym, wiernym przyjacielem i zawsze można na niego liczyć. Stara się zachowywać tak, jakby był starszy niż jest w rzeczywistości. Ma ogon przybity gwoździem, gdyż kiedyś go zgubił i w taki sposób Krzyś przymocował odnalezioną zgubę.
+6. **Krzyś** - około sześcioletni chłopiec, przyjaźni się ze wszystkimi mieszkańcami Stumilowego Lasu (w rzeczywistości są to jego zabawki). Jest miły, uczynny, ma zdolności organizacyjne. Nie chodzi jeszcze do szkoły, dopiero pod koniec powieści dowiadujemy się, że idzie do pierwszej klasy i dlatego coraz rzadziej będzie mógł odwiedzać Stumilowy Las.
+
+
+#### Lista pierwszych 3  odcinków serialu animowanego Nowe przygody Kubusia Puchatka, który był emitowany w TVP1.
+
+
+| Nr odcinka | Tytuł odcinka [POL] | Oryginalny tytuł odcinka [ENG] | Opis |
+|--------|-----------|-------------|----------------------------------------|
+| Odcinek 1 |	„Puchatek gra w filmie” | „Pooh Oughta Be In Pictures” | Kubuś Puchatek z przyjaciółmi wybierają się do kina na film z potworami. Krzyś postanawia, że sami nakręcą własny film. Tygrys, gdy przymierza kostium, przypadkiem blokuje suwak i uwięziony w przebraniu ogromnej marchewki przeraża przyjaciół. Uważając, że straszliwe monstrum pożarło Tygrysa, Kubuś, Prosiaczek i Królik próbują uratować przyjaciela. |
+| Odcinek 2 |	„Prawdziwy przyjaciel” |	„Friend In Deed” | Puchatek, jak to często bywa, wpada do Królika na małe co nieco. Ten jednak nie może już znieść niechcianego gościa, ponieważ jego zasoby miodu są na wyczerpaniu. Udaje więc przed Puchatkiem, że się wyprowadza z domu. Puchatek, by odzyskać przyjaciela, próbuje zdobyć dla niego nieco miodu. |
+|Odcinek 3 | „Dzień Osiołka” |	„Donkey For a Day” | Prosiaczek martwi się, że Kłapouchy jest bardzo smutny. Wraz z przyjaciółmi stara się go rozweselić. Niestety, ich próby spełzają na niczym. Okazuje się jednak, że ponura mina osiołka nie oznacza jego smutku – ma on swój własny, piękny sposób na szczęście.
+
+### Kilka cytatów z Kubusia Puchatka, które warto zapamiętać:
+
+* "Przyjacielu, jeśli będzie ci dane żyć sto lat, to ja chciałby żyć sto lat minus jeden dzień, abym nie musiał żyć ani jednego dnia bez ciebie."
+* "Wiesz, Prosiaczku...miłość jest wtedy...kiedy kogoś lubimy...za bardzo."
+* "Jeśli spadniesz na kogoś, nie wystarczy powiedzieć, że nie chciałeś. W końcu ten ktoś też wcale nie chciał, żebyś na niego spadał"
+
+### Kody
+
+```{r echo = FALSE}
+library(tidyverse)
+select(mpg, cty) %>% 
+  arrange(desc(cty))
+```
+
+```{r echo = FALSE}
+library(tidyverse)
+ggplot(data = mpg) +
+  geom_point(mapping = aes (x=displ, y=cty)) +
+  labs(title = "Pojemność silnika a spalanie paliwa w mieście", x = "pojemność", y= "spalanie [litry]")
+```
+
+```{r echo = TRUE}
+library(tidyverse)
+group_by (mpg, class)
+```
+
